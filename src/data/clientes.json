@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "João Silva",
+    "email": "joao.silva@example.com",
+    "mobile_phone": "41123456789",
+    "phone": "4133334444",
+    "document": "12345678901",
+    "status": "ativo"
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "email": "maria.santos@example.com",
+    "mobile_phone": "41987654321",
+    "phone": "4133334444",
+    "document": "09876543210",
+    "status": "inativo"
+  },
+  {
+    "id": 3,
+    "name": "Pedro Oliveira",
+    "email": "pedro.oliveira@example.com",
+    "mobile_phone": "41987654321",
+    "phone": "4133334444",
+    "document": "11223344556",
+    "status": "ativo"
+  },
+  {
+    "id": 4,
+    "name": "Ana Costa",
+    "email": "ana.costa@example.com",
+    "mobile_phone": "41987654321",
+    "phone": "4133334444",
+    "document": "66778899001",
+    "status": "inativo"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Pereira",
+    "email": "carlos.pereira@example.com",
+    "mobile_phone": "41987654321",
+    "phone": "4133334444",
+    "document": "22334455667",
+    "status": "ativo"
+  }
+]
